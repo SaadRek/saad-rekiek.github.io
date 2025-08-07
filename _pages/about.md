@@ -24,16 +24,3 @@ Projects
 
 
 
-
-
-
-
-<div style="text-align: center;">
-  <iframe width="560" height="315"
-    src="[https://www.youtube.com/watch?v=iqizXvvWnmM&list=RDMpX6B1k8lAc&index=2]"
-    title="Robot demo"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
