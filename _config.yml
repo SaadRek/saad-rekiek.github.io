@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Brussels, Belgium"
 site_theme               : "default"
-title                    : "Portfolio"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Saad Rekiek"
 description              : &description "personal description"
