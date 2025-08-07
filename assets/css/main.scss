@@ -8,6 +8,16 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Inter', sans-serif;
+}
+
+
 @import
     "vendor/breakpoint/breakpoint",
 
