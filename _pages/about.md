@@ -29,7 +29,7 @@ Overview:
 Developed a fully integrated, modular robotic framework enabling intelligent, adaptive grasping in complex, real-world environments with a focus on pharmaceutical production lines handling fragile and irregular items. The system introduces a new method in Physical AI, where the robot understands and leverages the physical properties of objects (e.g., mass, geometry, surface characteristics) to generalize the grasping task. This allows the robot to dynamically apply the necessary gripping force and strategy for each object, ensuring stability without causing damage. The framework combines Large Language Models (LLMs), vision-based pose estimation, force-based grasp control, and natural language interaction into a unified decision–perception–action loop. This framework was presented at the conference ITF World 2025 by imec, where it received strong feedback from robotics researchers and industry experts. The presentation is available on YouTube: [Watch my robotics demo on YouTube](https://www.youtube.com/watch?v=10evZqkg7gM) .
 
 
-![Image 3](/images/IMG_7515.jpeg) 
+![Robot conference ITF](/images/IMG_7515.jpeg) 
 
 
 
