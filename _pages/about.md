@@ -26,7 +26,7 @@ Projects
 
 Overview:
 
-Developed a fully integrated, modular robotic framework enabling intelligent, adaptive grasping in complex, real-world environments — with a focus on pharmaceutical production lines handling fragile and irregular items. The system introduces a new method in Physical AI, where the robot understands and leverages the physical properties of objects (e.g., mass, geometry, surface characteristics) to generalize the grasping task. This allows the robot to dynamically apply the necessary gripping force and strategy for each object, ensuring stability without causing damage. The framework combines Large Language Models (LLMs), 6-DOF vision-based pose estimation, force-based grasp control, and natural language interaction into a unified decision–perception–action loop.
+Developed a fully integrated, modular robotic framework enabling intelligent, adaptive grasping in complex, real-world environments — with a focus on pharmaceutical production lines handling fragile and irregular items. The system introduces a new method in Physical AI, where the robot understands and leverages the physical properties of objects (e.g., mass, geometry, surface characteristics) to generalize the grasping task. This allows the robot to dynamically apply the necessary gripping force and strategy for each object, ensuring stability without causing damage. The framework combines Large Language Models (LLMs), vision-based pose estimation, force-based grasp control, and natural language interaction into a unified decision–perception–action loop.
 
 Key Features & Contributions:
 
@@ -38,7 +38,7 @@ Key Features & Contributions:
 
 2. Perception Module – Object Detection & Pose Estimation :
 
-    - Used FastSAM for segmentation and FoundationPose for precise 6-DOF pose estimation.
+    - Used FastSAM for segmentation and FoundationPose for precise pose estimation.
 
     - Fused RGB-D, spatial metadata, and LLM reasoning to robustly identify target objects even under occlusion or clutter.
 
