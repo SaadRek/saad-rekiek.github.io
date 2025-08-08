@@ -67,16 +67,6 @@ Key Features & Contributions:
 
     - Applied adaptive strategies to avoid damaging fragile pharmaceutical products.
 
-Quantitative Achievements:
-
-- ≥ 90% grasp success rate across diverse object sets.
-
-- Pose estimation accuracy: ~2.5 cm position error, ≤ 8° orientation error.
-
-- Speech recognition accuracy: 94% in quiet, 85% in noisy lab conditions.
-
-- End-to-end task completion success: 85% for multi-step voice commands.
-
 Impact:
 This work demonstrates the feasibility of generalized, human-interactive robotic grasping using Physical AI, enabling robots to understand object properties and adapt grasping strategies accordingly. The framework is designed for safety-critical, high-precision environments, changing the way for intelligent automation in pharmaceuticals and other domains requiring careful object handling.
 
