@@ -30,7 +30,8 @@ Developed a fully integrated, modular robotic framework enabling intelligent, ad
 
 
 
-![Image 1](github.com/SaadRek/saad-rekiek.github.io/blob/master/images/IMG_6997.jpeg)
+![Image 1]({{ '/images/IMG_7099.jpeg' | relative_url }})
+
 
 
 
