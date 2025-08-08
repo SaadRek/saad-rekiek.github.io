@@ -30,7 +30,7 @@ Developed a fully integrated, modular robotic framework enabling intelligent, ad
 
 
 
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+![Editing a Markdown file for a talk]({{ base_path }}/images/editing-talk.png)
 
 
 
